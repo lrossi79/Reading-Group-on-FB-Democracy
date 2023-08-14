@@ -26,8 +26,9 @@ The meeting will on both on physical locations as well as on zoom. Since people 
 ## Links to the papers:
 
 [Nyhan, B. et al. Like-minded sources on Facebook are prevalent but not polarizing. Nature (2023) doi:10.1038/s41586-023-06297-w ](https://www.nature.com/articles/s41586-023-06297-w.pdf)
+
 [González-Bailón, S. et al. Asymmetric ideological segregation in exposure to political news on Facebook. Science 381, 392–398 (2023) ](https://www.science.org/doi/10.1126/science.ade7138)
 
 [Guess, A. M. et al. How do social media feed algorithms affect attitudes and behavior in an election campaign? Science 381, 398–404 (2023)](https://www.science.org/doi/10.1126/science.abp9364)
 
-[Guess, A. M. et al. Reshares on social media amplify political news but do not detectably affect beliefs or opinions. Science 381, 404–408 (2023)] (https://www.science.org/doi/10.1126/science.add8424) 
+[Guess, A. M. et al. Reshares on social media amplify political news but do not detectably affect beliefs or opinions. Science 381, 404–408 (2023)](https://www.science.org/doi/10.1126/science.add8424) 
