@@ -9,7 +9,7 @@ Since the devil is in the details and since these paper are massive pieces of co
 # Agenda
 The meeting will on both on physical locations as well as on zoom. Since people from different universities have shown interest in this idea, they will take care of the local organization. All the different rooms will join a Zoom meeting at the following address: [https://itucph.zoom.us/j/8280886718]
 
-# Meetings:
+## Meetings:
 
 Aug 25th: Like-minded sources on Facebook are prevalent but not polarizing.
 
