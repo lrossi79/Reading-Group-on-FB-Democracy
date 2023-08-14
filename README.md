@@ -1,3 +1,5 @@
+# Reading group on 2023 papers on Facebook & Democratic processes 
+
 ## Background
 In summer 2023 a group of 4 papers have been published on Science and Nature to report the result of an unprecedented collaborative effort between Meta and a group of selected US researchers to investigate the impact of social media on various democratic processes with a specific focus on 2020 US election.
 
