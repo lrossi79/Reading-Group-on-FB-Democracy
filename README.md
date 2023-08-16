@@ -13,15 +13,15 @@ The meeting will on both on physical locations as well as on zoom. Since people 
 
 ## Meetings:
 
-**Aug 25th:** _Like-minded sources on Facebook are prevalent but not polarizing._
+**Aug 25th 12:00-13:00** _Like-minded sources on Facebook are prevalent but not polarizing._
 
-**Sept. 1t:** _Asymmetric ideological segregation in exposure to political news on Facebook._
+**Sept. 1st 12:00-13:00** _Asymmetric ideological segregation in exposure to political news on Facebook._
 
-**Sept. 8th:** _How do social media feed algorithms affect attitudes and behavior in an election campaign?_
+**Sept. 8th 12:00-13:00** _How do social media feed algorithms affect attitudes and behavior in an election campaign?_
 
-**Sept. 15th:** _Reshares on social media amplify political news but do not detectably affect beliefs or opinions._
+**Sept. 15th 12:00-13:00** _Reshares on social media amplify political news but do not detectably affect beliefs or opinions._
 
-**Sept. 22nd:** _Where do we go from here, is this a new era for social media research?_
+**Sept. 22nd 12:00-13:00** _Where do we go from here, is this a new era for social media research?_
 
 ## Links to the papers:
 
