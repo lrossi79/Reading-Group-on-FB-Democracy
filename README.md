@@ -39,9 +39,8 @@ The meeting will on both on physical locations as well as on zoom. Since people 
 
 ## Confirmed participants
 
-Lorenzo Mannocci, CNR-IIT
-Matteo Magnani, Uppsala University
-
+Lorenzo Mannocci, CNR-IIT  
+Matteo Magnani, Uppsala University  
 Fabio Giglietto, University of Urbino Carlo Bo  
 Matias Piqueras, Uppsala University  
 Sophie Mainz, Uppsala University  
