@@ -15,7 +15,7 @@ If you want to participate please send me a mail and I'll add you to the group a
 ## Agenda
 The meeting will on both on physical locations as well as on zoom. Since people from different universities have shown interest in this idea, they will take care of the local organization. All the different rooms will join a Zoom meeting at the following address: [https://itucph.zoom.us/j/8280886718](https://itucph.zoom.us/j/8280886718)
 
-## Meetings:
+## Meetings
 
 **Aug 25th 12:00-13:00** _Like-minded sources on Facebook are prevalent but not polarizing._
 
@@ -27,7 +27,7 @@ The meeting will on both on physical locations as well as on zoom. Since people 
 
 **Sept. 22nd 12:00-13:00** _Where do we go from here, is this a new era for social media research?_
 
-## Links to the papers:
+## Links to the papers
 
 [Nyhan, B. et al. Like-minded sources on Facebook are prevalent but not polarizing. Nature (2023) doi:10.1038/s41586-023-06297-w ](https://www.nature.com/articles/s41586-023-06297-w.pdf)
 
@@ -36,3 +36,19 @@ The meeting will on both on physical locations as well as on zoom. Since people 
 [Guess, A. M. et al. How do social media feed algorithms affect attitudes and behavior in an election campaign? Science 381, 398–404 (2023)](https://www.science.org/doi/10.1126/science.abp9364)
 
 [Guess, A. M. et al. Reshares on social media amplify political news but do not detectably affect beliefs or opinions. Science 381, 404–408 (2023)](https://www.science.org/doi/10.1126/science.add8424) 
+
+## Confirmed participants
+
+Lorenzo Mannocci, CNR-IIT
+Matteo Magnani, Uppsala University
+Fabio Giglietto, University of Urbino Carlo Bo
+Matias Piqueras, Uppsala University
+Sophie Mainz, Uppsala University
+Alexandra Segerberg, Uppsala University
+Giada Marino, University of Urbino Carlo Bo
+Davide Vega, Uppsala University
+Roberto Mincigrucci, University of Urbino Carlo Bo
+Olaniran Psalmuel, University of Urbino Carlo Bo
+Luigi Arminio, IT University of Copenhagen
+Luca Rossi, IT University of Copenhagen
+
