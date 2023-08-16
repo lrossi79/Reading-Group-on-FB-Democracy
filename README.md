@@ -41,14 +41,15 @@ The meeting will on both on physical locations as well as on zoom. Since people 
 
 Lorenzo Mannocci, CNR-IIT
 Matteo Magnani, Uppsala University
-Fabio Giglietto, University of Urbino Carlo Bo
-Matias Piqueras, Uppsala University
-Sophie Mainz, Uppsala University
-Alexandra Segerberg, Uppsala University
-Giada Marino, University of Urbino Carlo Bo
-Davide Vega, Uppsala University
-Roberto Mincigrucci, University of Urbino Carlo Bo
-Olaniran Psalmuel, University of Urbino Carlo Bo
-Luigi Arminio, IT University of Copenhagen
-Luca Rossi, IT University of Copenhagen
+
+Fabio Giglietto, University of Urbino Carlo Bo  
+Matias Piqueras, Uppsala University  
+Sophie Mainz, Uppsala University  
+Alexandra Segerberg, Uppsala University  
+Giada Marino, University of Urbino Carlo Bo  
+Davide Vega, Uppsala University  
+Roberto Mincigrucci, University of Urbino Carlo Bo  
+Olaniran Psalmuel, University of Urbino Carlo Bo  
+Luigi Arminio, IT University of Copenhagen  
+Luca Rossi, IT University of Copenhagen  
 
