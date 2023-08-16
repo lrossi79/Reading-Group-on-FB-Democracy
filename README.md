@@ -8,6 +8,10 @@ These papers represent a unique example of research both for the extent of the c
 ## Aim of the reading group
 Since the devil is in the details and since these papers are massive pieces of complex research a reading group seems a good opportunity to tackle both the methodological aspects as well as the main results. The idea is to dscuss these papers from a methodological, theoretical as well as political point of view. The plan is to discuss each paper individually and to allocate an extra day to discuss the more general questions such as data access and the politics of collaboration with social media platforms.
 
+## Participation
+
+If you want to participate please send me a mail and I'll add you to the group and share all the details: [lucr@itu.dk](mailto:lucr@itu.dk)
+
 ## Agenda
 The meeting will on both on physical locations as well as on zoom. Since people from different universities have shown interest in this idea, they will take care of the local organization. All the different rooms will join a Zoom meeting at the following address: [https://itucph.zoom.us/j/8280886718](https://itucph.zoom.us/j/8280886718)
 
