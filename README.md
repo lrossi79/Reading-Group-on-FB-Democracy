@@ -52,5 +52,13 @@ Olaniran Psalmuel, University of Urbino Carlo Bo
 Luigi Arminio, IT University of Copenhagen  
 Luca Rossi, IT University of Copenhagen
 Iraklis Moutidis, IT University of Copenhagen
+Arianna Pera, IT University of Copenhagen
+Marina Charquero, Aarhus University
+Anja Bechmann, Aarhus University
+Jessica Gabriele Walter, Aarhus University
+Anton Elias Holt, Aarhus University
+
+
+
  
 
