@@ -23,7 +23,7 @@ The meeting will on both on physical locations as well as on zoom. Since people 
 
 **Sept. 8th 12:00-13:00** _How do social media feed algorithms affect attitudes and behavior in an election campaign?_
 
-<del>**Sept. 15th 12:00-13:00**</del>~ **Sept. 22th 12:00-13:00** _Reshares on social media amplify political news but do not detectably affect beliefs or opinions._
+<del>**Sept. 15th 12:00-13:00**</del> **Sept. 22th 12:00-13:00** _Reshares on social media amplify political news but do not detectably affect beliefs or opinions._
 
 **Sept. 29nd 12:00-13:00** _Where do we go from here, is this a new era for social media research?_
 
